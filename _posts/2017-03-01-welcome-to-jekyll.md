@@ -1,5 +1,5 @@
 ---
-title: "Honurs Project"
+title: "Honours Project"
 layout: post
 ---
 
