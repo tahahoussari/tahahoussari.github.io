@@ -24,15 +24,15 @@ navigation: # accepts {file, title, url, icon, sidebaricon}
       url: "https://tahahoussari.github.io/projects",
     }
   - {
-      file: "personal.html",
-      title: "Personal",
-      url: "https://tahahoussari.github.io/personal",
+      file: "experience.html",
+      title: "Experience",
+      url: "https://tahahoussari.github.io/experience",
     }
-  - {
-      file: "contact.html",
-      title: "Contact",
-      url: "https://tahahoussari.github.io/contact",
-    }
+  # - {
+  #     file: "contact.html",
+  #     title: "Contact",
+  #     url: "https://tahahoussari.github.io/contact",
+  #   }
 
 external: # shows a footer with social links - for available icons see fontawesome.com/icons
   - { title: Mail, icon: envelope, url: "mailto:tahahoussari@gmail.com" }
