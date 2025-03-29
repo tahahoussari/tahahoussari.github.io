@@ -37,6 +37,16 @@ navigation: # accepts {file, title, url, icon, sidebaricon}
 external: # shows a footer with social links - for available icons see fontawesome.com/icons
   - { title: Mail, icon: envelope, url: "mailto:tahahoussari@gmail.com" }
   - { title: Github, icon: github, url: "https://github.com/tahahoussari" }
+  - {
+      title: LeetCode,
+      icon: leetcode,
+      url: "https://leetcode.com/u/tahahoussari/",
+    }
+  - {
+      title: LinkedIn,
+      icon: linkedin,
+      url: "https://www.linkedin.com/in/taha-houssari-0325611ba/",
+    }
   - { title: Subscribe, icon: rss, url: "/feed.xml" }
 
 comments:
